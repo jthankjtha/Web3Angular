@@ -1,0 +1,8 @@
+clone
+cd project
+npm install
+npm install –g @angular/cli
+Add contracts to your local/or have the nftProject available
+
+start server (preferable in admin mode):
+ng serve
